@@ -19,7 +19,7 @@ The main goal of CryptoLabX is to develop a reusable cryptanalysis framework tha
 | Member 3 | Module Development      |
 | Member 4 | Research & Analysis     |
 
-*(Replace the names and roles with your actual group details.)*
+
 
 ---
 
