@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CryptoLabX
 
 ### A Modular Cryptanalysis Toolkit
@@ -233,3 +234,6 @@ Updated documentation
 # Conclusion
 
 CryptoLabX provides the foundation for a complete cryptanalysis framework. The Week 1 implementation focuses on project organization, version control, command-line interaction, file processing, and documentation. Future assignments will expand this foundation by adding cryptographic algorithms and advanced analysis techniques.
+=======
+hiii 
+>>>>>>> dc4b16f (added readme)
