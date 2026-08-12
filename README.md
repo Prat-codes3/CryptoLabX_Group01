@@ -13,13 +13,8 @@ The main goal of CryptoLabX is to develop a reusable cryptanalysis framework tha
 
 ## Team Members
 
-| Name     | Role                    |
-| -------- | ----------------------- |
-| Member 1 | Project Developer       |
-| Member 2 | Documentation & Testing |
-| Member 3 | Module Development      |
-| Member 4 | Research & Analysis     |
-
+janhavi rajpurohit
+prateek persoya 
 
 
 ---
