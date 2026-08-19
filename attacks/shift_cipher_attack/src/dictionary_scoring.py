@@ -1,6 +1,5 @@
 from shift_cipher import decrypt
-
-
+from shift_cipher import encrypt
 def load_words(filename):
     file = open(filename, "r")
     words = file.read().split()
@@ -45,7 +44,7 @@ def dictionary_attack(ciphertext, words):
 words = load_words("english.txt")
 
 # Test ciphertext
-ciphertext = "khoor zruog"
+ciphertext = input("Enter decryptedtext : ")
 
 # Run dictionary attack
 best_key, best_text = dictionary_attack(ciphertext, words)
