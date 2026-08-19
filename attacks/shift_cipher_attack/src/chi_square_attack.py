@@ -1,4 +1,4 @@
-from shift_cipher_bruteforce import decrypt
+from library import decrypt
 
 
 frequency = {
