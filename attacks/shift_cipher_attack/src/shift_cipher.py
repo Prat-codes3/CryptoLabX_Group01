@@ -1,4 +1,4 @@
-# Shift Cipher functions
+
 
 def encrypt(text, key):
     result = ""
