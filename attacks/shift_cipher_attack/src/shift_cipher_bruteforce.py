@@ -14,7 +14,10 @@ def encrypt(text, key):
 
     print("Encrypted text:", result)
     return result
+text = input("Enter the text: ")
+key = int(input("Enter the key (0-25): "))
 
+result = encrypt(text, key)
 
 # Now the decryption part handled by PRATEEK 1813
 
@@ -28,11 +31,6 @@ def decrypt(result, key):
             Result += ch
 
     return Result
-
-text = input("Enter the text: ")
-key = int(input("Enter the key (0-25): "))
-
-result = encrypt(text, key)
 
 print("\nBrute Force Results:")
 
