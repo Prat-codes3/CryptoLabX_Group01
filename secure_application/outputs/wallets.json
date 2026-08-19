@@ -1,1 +1,14 @@
-{}
+{
+    "W001": {
+        "owner": "janvi",
+        "balance": 1000.0
+    },
+    "W002": {
+        "owner": "pratik",
+        "balance": 1000.0
+    },
+    "W003": {
+        "owner": "pratik",
+        "balance": 1000.0
+    }
+}
