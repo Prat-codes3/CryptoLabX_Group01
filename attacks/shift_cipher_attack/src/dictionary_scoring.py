@@ -1,9 +1,9 @@
 from shift_cipher import decrypt
 
 
-def load_words(filename):
+def load_words(english_words.txt):
 
-    file = open(filename, "r")
+    file = open(english_words.txt, "r")
 
     words = file.read().split()
 
